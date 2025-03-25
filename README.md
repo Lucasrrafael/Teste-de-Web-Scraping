@@ -11,8 +11,8 @@ Este projeto contém um script Python para extrair e baixar automaticamente arqu
 
 1. Clone este repositório:
 ```bash
-git clone <url-do-repositorio>
-cd VagaEstagio
+git clone https://github.com/Lucasrrafael/Teste-de-Web-Scraping.git
+cd Teste-de-Web-Scraping
 ```
 
 2. Instale as dependências necessárias usando o arquivo requirements.txt:
